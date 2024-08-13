@@ -1,3 +1,5 @@
+//Irine M B
+//32
 #include<stdio.h>
 void main ()
 {
